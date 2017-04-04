@@ -16,7 +16,7 @@ tools:context="com.example.rikym.thiefttracker.reporte">
         android:paddingTop="0dp"
         android:paddingBottom="0dp"
         android:layout_marginRight="90dp"
-        android:src="@drawable/banner"
+        android:src="@drawable/thieftrakert"
         android:id="@+id/imageView" />
 
     <ImageButton
